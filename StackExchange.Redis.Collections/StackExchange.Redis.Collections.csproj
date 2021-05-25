@@ -5,8 +5,8 @@
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <Version>1.0.3</Version>
     <Authors>Efstathios Chrysikos</Authors>
-    <Company>Prosvasis SA</Company>
-    <Copyright>Prosvasis SA</Copyright>
+    <Company></Company>
+    <Copyright></Copyright>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <Description>This package provides Implementation of .net collection types using the StackExchange.Redis (Redis Client).</Description>
   </PropertyGroup>
